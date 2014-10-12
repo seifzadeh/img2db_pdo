@@ -1,0 +1,24 @@
+{
+    "name": "img2sb_pdo",
+    "type": "library",
+    "description": "save image to database uses pdo",
+    "keywords": ["image","database","image to database","img2db","convert image to database","image blob"],
+    "homepage": "https://github.com/seifzadeh/img2db_pdo",
+    "license": "GPL V2",
+    "authors": [
+        {
+            "name": "Mehrdad Seifzadeh",
+            "email": "mehrdad.seifzadeh@gmail.com",
+            "homepage": "http://seifzade.ir",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "img2_db": "img2db_pdo.class.php"
+        }
+    }
+}
