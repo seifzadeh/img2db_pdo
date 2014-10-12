@@ -1,5 +1,5 @@
 {
-    "name": "img2sb_pdo",
+    "name": "img2dbpdo",
     "type": "library",
     "description": "save image to database uses pdo",
     "keywords": ["image","database","image to database","img2db","convert image to database","image blob"],
